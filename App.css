@@ -1,0 +1,23 @@
+.heading{
+         background-color:white;
+        font-size:2cm ;}
+.heading1{
+          color:#73BFD4 ;
+        }
+.heading2{
+          color:red;
+        }
+
+.content label{float:left;
+               position:absolute;}
+.content input{margin-left:150px;}
+a:-webkit-any-link{
+  color:red;
+  cursor:pointer;
+  text-decoration:none;}
+  .content{ padding:60px;  
+    border:1px solid #73BFD4;  
+    border-radius:10px;
+    float:left;
+    margin-top:50px; 
+     }
